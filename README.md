@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" src="https://github.com/Mark2Mark/show-stems-pro-plugin/blob/main/.images/{{IMAGE_NAME}}.jpg?raw=true"">
+<img width="200" height="200" src="https://github.com/Mark2Mark/show-stems-pro-plugin/blob/main/.images/Show-Stems-Pro-Icon.png?raw=true"">
 </p>
 
 # Show Stems Pro
