@@ -30,18 +30,23 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - <kbd>✨NEW✨</kbd> Automatic Updates  
 
 📺 1
+
 https://user-images.githubusercontent.com/5824595/135309216-9054b2f6-f69b-4b66-8d02-9f91153165d1.mov
 
 📺 2
+
 https://user-images.githubusercontent.com/5824595/135309253-47c93b91-f394-4fe7-90ed-00d6898577fa.mov
 
-📺 3 (Show Stems - Outside Mode.mov)
+📺 3
+
 https://user-images.githubusercontent.com/5824595/135309367-69f5331b-3060-4b5b-870b-ff241b91eb50.mov                                                                                                    
 
 📺 4
+
 https://user-images.githubusercontent.com/5824595/135309295-95954bd9-cb10-45cd-b86e-ec93f5129441.mp4         
 
-📺 5 (Show Stems - Sizes.mp4)
+📺 5
+
 https://user-images.githubusercontent.com/5824595/135309337-836357f4-c497-4a06-ab5b-4e9384c0ba46.mp4
 
 
