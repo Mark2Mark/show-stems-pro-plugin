@@ -29,11 +29,16 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - `Toggle:` Measure with overlaps removed `/` with overlaps  
 - <kbd>✨NEW✨</kbd> Automatic Updates  
 
-1 (Show Stems - Dark Mode.mov)
-2 (Show Stems - Matches & Almost Values.mov)
-3 (Show Stems - Colors.mp4)
-4 (Show Stems - Sizes.mp4)
-5 (Show Stems - Outside Mode.mov)
+📺 1 (Show Stems - Dark Mode.mov)
+
+📺 2 (Show Stems - Matches & Almost Values.mov)
+
+📺 3 (Show Stems - Colors.mp4)
+
+📺 4 (Show Stems - Sizes.mp4)
+
+📺 5 (Show Stems - Outside Mode.mov)
+
 
 
 &nbsp;
