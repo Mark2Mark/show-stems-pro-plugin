@@ -14,30 +14,20 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 &nbsp;
 ## Features & Highlights
 
-- You can now download it from the Plugin Manager right inside of GlyphsApp
-<br>
-- <kbd>✨NEW✨</kbd> Improved rendering
-  - Works well in Dark Mode `(Video 1)`
-<br>
-- Show Matches to values in Dimensions Palette `(Video 2)`
-  - `Toggle:` All almost values `vs` Only the closes match
-<br>
-- <kbd>✨NEW✨</kbd> Highlight matching stems (also in italic mode)
-<br>
-- `Toggle:` measure off-path `/` on-path only
-<br>
-- <kbd>✨NEW✨</kbd> Color is now the Mac selection color `(Video 3)`
-<br>
-- <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences `(Video 4)`
-<br>
-- <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer `(Video 5)`
-<br>
-- Toogle: Vertical Beam show `/` don’t show
-  - `Toggle:` Use Italic Angle `/` plain vertical
-<br>
-- `Toggle:` Measure with overlaps removed `/` with overlaps
-<br>
-- <kbd>✨NEW✨</kbd> Automatic Updates
+- You can now download it from the Plugin Manager right inside of GlyphsApp  
+- <kbd>✨NEW✨</kbd> Improved rendering  
+  - Works well in Dark Mode `(Video 1)`  
+- Show Matches to values in Dimensions Palette `(Video 2)`  
+  - `Toggle:` All almost values `vs` Only the closes match  
+- <kbd>✨NEW✨</kbd> Highlight matching stems (also in italic mode)  
+- `Toggle:` measure off-path `/` on-path only  
+- <kbd>✨NEW✨</kbd> Color is now the Mac selection color `(Video 3)`  
+- <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences `(Video 4)`  
+- <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer `(Video 5)`  
+- Toogle: Vertical Beam show `/` don’t show  
+  - `Toggle:` Use Italic Angle `/` plain vertical  
+- `Toggle:` Measure with overlaps removed `/` with overlaps  
+- <kbd>✨NEW✨</kbd> Automatic Updates  
 
 1 (Show Stems - Dark Mode.mov)
 2 (Show Stems - Matches & Almost Values.mov)
