@@ -21,23 +21,28 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
   - `Toggle:` All almost values `/` Only the closes match  
 - <kbd>✨NEW✨</kbd> Highlight matching stems (also in italic mode)  
 - `Toggle:` measure off-path `/` on-path only  
-- <kbd>✨NEW✨</kbd> Color is now the Mac selection color <sup>`📺 3`</sup>  
-- <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences <sup>`📺 4`</sup>  
-- <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer <sup>`📺 5`</sup>  
+- <kbd>✨NEW✨</kbd> Color is now the Mac selection color <sup>`📺 4</sup>  
+- <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences <sup>`📺 5`</sup>  
+- <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer <sup>`📺 3`</sup>  
 - `Toggle:` Vertical Beam show `/` don’t show  
   - `Toggle:` Use Italic Angle `/` plain vertical  
 - `Toggle:` Measure with overlaps removed `/` with overlaps  
 - <kbd>✨NEW✨</kbd> Automatic Updates  
 
-📺 1 (Show Stems - Dark Mode.mov)
+📺 1
+https://user-images.githubusercontent.com/5824595/135309216-9054b2f6-f69b-4b66-8d02-9f91153165d1.mov
 
-📺 2 (Show Stems - Matches & Almost Values.mov)
+📺 2
+https://user-images.githubusercontent.com/5824595/135309253-47c93b91-f394-4fe7-90ed-00d6898577fa.mov
 
-📺 3 (Show Stems - Colors.mp4)
+📺 3 (Show Stems - Outside Mode.mov)
+https://user-images.githubusercontent.com/5824595/135309367-69f5331b-3060-4b5b-870b-ff241b91eb50.mov                                                                                                    
 
-📺 4 (Show Stems - Sizes.mp4)
+📺 4
+https://user-images.githubusercontent.com/5824595/135309295-95954bd9-cb10-45cd-b86e-ec93f5129441.mp4         
 
-📺 5 (Show Stems - Outside Mode.mov)
+📺 5 (Show Stems - Sizes.mp4)
+https://user-images.githubusercontent.com/5824595/135309337-836357f4-c497-4a06-ab5b-4e9384c0ba46.mp4
 
 
 
