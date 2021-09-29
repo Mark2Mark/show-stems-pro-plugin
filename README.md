@@ -23,6 +23,11 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 </video>
 
 
+https://user-images.githubusercontent.com/5824595/135300934-6dd8b629-4a01-44b0-857b-1d7f012c52ae.mov
+
+
+
+
 &nbsp;
 ## Todo
 
