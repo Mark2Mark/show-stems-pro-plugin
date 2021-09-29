@@ -18,13 +18,13 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - <kbd>✨NEW✨</kbd> Improved rendering  
   - Works well in Dark Mode `(Video 1)`  
 - Show Matches to values in Dimensions Palette `(Video 2)`  
-  - `Toggle:` All almost values `vs` Only the closes match  
+  - `Toggle:` All almost values `/` Only the closes match  
 - <kbd>✨NEW✨</kbd> Highlight matching stems (also in italic mode)  
 - `Toggle:` measure off-path `/` on-path only  
 - <kbd>✨NEW✨</kbd> Color is now the Mac selection color `(Video 3)`  
 - <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences `(Video 4)`  
 - <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer `(Video 5)`  
-- Toogle: Vertical Beam show `/` don’t show  
+- `Toggle:` Vertical Beam show `/` don’t show  
   - `Toggle:` Use Italic Angle `/` plain vertical  
 - `Toggle:` Measure with overlaps removed `/` with overlaps  
 - <kbd>✨NEW✨</kbd> Automatic Updates  
