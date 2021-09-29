@@ -16,7 +16,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 - You can now download it from the Plugin Manager right inside of GlyphsApp  
 - <kbd>✨NEW✨</kbd> Improved rendering  
-  - Works well in Dark Mode `(Video 1)`  
+  - Works well in Dark Mode <sup>`(Video 1)`</sup>
 - Show Matches to values in Dimensions Palette `(Video 2)`  
   - `Toggle:` All almost values `/` Only the closes match  
 - <kbd>✨NEW✨</kbd> Highlight matching stems (also in italic mode)  
