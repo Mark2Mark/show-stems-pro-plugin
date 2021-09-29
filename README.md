@@ -12,9 +12,16 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 
 &nbsp;
-## Highlights
+## Features & Highlights
 
 - You can now download it directly from the Plugin Manager right inside of GlyphsApp.
+
+### New features:
+- Outside View
+
+<video autoplay="" loop="" controls="" controlslist="nofullscreen nodownload" playsinline="" muted="" class="screencastSquare"><source src="https://markfromberg.com/public/img/Show%20Stems%20Outside%20Mode.mov" type="video/mp4">
+</video>
+
 
 &nbsp;
 ## Todo
