@@ -61,10 +61,12 @@ https://user-images.githubusercontent.com/5824595/135309337-836357f4-c497-4a06-a
 
 <details><summary>Expand if you’re curious.</summary>
 
-### v2.0.0
+### v3.1.2
 
 - New in GlyphsApp's Plugin Manager
-- Add menu item "Open Registration Window"
+- New features as seen above
+- Rewritten for Glyphs 3
+- UI improvements
 
 </details>
 
