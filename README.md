@@ -14,18 +14,36 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 &nbsp;
 ## Features & Highlights
 
-- You can now download it directly from the Plugin Manager right inside of GlyphsApp.
+- You can now download it from the Plugin Manager right inside of GlyphsApp
+<br>
+- <kbd>✨NEW✨</kbd> Improved rendering
+  - Works well in Dark Mode `(Video 1)`
+<br>
+- Show Matches to values in Dimensions Palette `(Video 2)`
+  - `Toggle:` All almost values `/` Only the closes match
+<br>
+- <kbd>✨NEW✨</kbd> Highlight matching stems (also in italic mode)
+<br>
+- `Toggle:` measure off-path `/` on-path only
+<br>
+- <kbd>✨NEW✨</kbd> Color is now the Mac selection color `(Video 3)`
+<br>
+- <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences `(Video 4)`
+<br>
+- <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer `(Video 5)`
+<br>
+- Toogle: Vertical Beam show `/` don’t show
+  - `Toggle:` Use Italic Angle `/` plain vertical
+<br>
+- `Toggle:` Measure with overlaps removed `/` with overlaps
+<br>
+- <kbd>✨NEW✨</kbd> Automatic Updates
 
-### New features:
-- Outside View
-
-<video autoplay="" loop="" controls="" controlslist="nofullscreen nodownload" playsinline="" muted="" class="screencastSquare"><source src="https://markfromberg.com/public/img/Show%20Stems%20Outside%20Mode.mov" type="video/mp4">
-</video>
-
-
-https://user-images.githubusercontent.com/5824595/135300934-6dd8b629-4a01-44b0-857b-1d7f012c52ae.mov
-
-
+1 (Show Stems - Dark Mode.mov)
+2 (Show Stems - Matches & Almost Values.mov)
+3 (Show Stems - Colors.mp4)
+4 (Show Stems - Sizes.mp4)
+5 (Show Stems - Outside Mode.mov)
 
 
 &nbsp;
