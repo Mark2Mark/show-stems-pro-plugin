@@ -16,14 +16,14 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 - You can now download it from the Plugin Manager right inside of GlyphsApp  
 - <kbd>✨NEW✨</kbd> Improved rendering  
-  - Works well in Dark Mode <sup>`(Video 1)`</sup>
-- Show Matches to values in Dimensions Palette `(Video 2)`  
+  - Works well in Dark Mode <sup>`(Video 1)`</sup>  
+- Show Matches to values in Dimensions Palette <sup>`(Video 2)`</sup>  
   - `Toggle:` All almost values `/` Only the closes match  
 - <kbd>✨NEW✨</kbd> Highlight matching stems (also in italic mode)  
 - `Toggle:` measure off-path `/` on-path only  
-- <kbd>✨NEW✨</kbd> Color is now the Mac selection color `(Video 3)`  
-- <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences `(Video 4)`  
-- <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer `(Video 5)`  
+- <kbd>✨NEW✨</kbd> Color is now the Mac selection color <sup>`(Video 3)`</sup>  
+- <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences <sup>`(Video 4)`</sup>  
+- <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer <sup>`(Video 5)`</sup>  
 - `Toggle:` Vertical Beam show `/` don’t show  
   - `Toggle:` Use Italic Angle `/` plain vertical  
 - `Toggle:` Measure with overlaps removed `/` with overlaps  
