@@ -20,7 +20,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
   - Works well in Dark Mode `(Video 1)`
 <br>
 - Show Matches to values in Dimensions Palette `(Video 2)`
-  - `Toggle:` All almost values `/` Only the closes match
+  - `Toggle:` All almost values ` / ` Only the closes match
 <br>
 - <kbd>✨NEW✨</kbd> Highlight matching stems (also in italic mode)
 <br>
