@@ -61,6 +61,10 @@ https://user-images.githubusercontent.com/5824595/135309337-836357f4-c497-4a06-a
 
 <details><summary>Expand if you’re curious.</summary>
 
+### v3.1.3
+
+- Fix a crash when a layer had paths *and* components and overlaps removed was active.
+
 ### v3.1.2
 
 - New in GlyphsApp's Plugin Manager
