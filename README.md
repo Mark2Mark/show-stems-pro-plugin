@@ -121,5 +121,5 @@ If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reporte
 ---
 
 <p align="center">
-  <img src="https://github.com/Mark2Mark/show-stems-pro-plugin/blob/main/.images/Plugin Manager-ShowStemsPro.jpg?raw=true">
+  <img src="https://github.com/Mark2Mark/show-stems-pro-plugin/blob/main/.images/PluginManager-ShowStemsPro.jpg?raw=true">
 </p>
