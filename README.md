@@ -65,6 +65,10 @@ https://user-images.githubusercontent.com/5824595/135741284-ff902c77-8cee-4163-b
 
 <details><summary>Expand if you’re curious.</summary>
 
+### v3.1.4
+
+- New feature: Stick To Cursor (Beta): When enabled, the display will stick to the cursor, relocating the measurement beams in realtime.
+
 ### v3.1.3
 
 - Fix a crash when a layer had paths *and* components and overlaps removed was active.
