@@ -23,6 +23,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - `Toggle:` measure off-path `/` on-path only  
 - <kbd>✨NEW✨</kbd> Color is now the Mac selection color <sup>`📺 4</sup>  
 - <kbd>✨NEW✨</kbd> Display size is tied to the three handle sizes from GlyphsApp Preferences <sup>`📺 5`</sup>  
+- <kbd>✨NEW✨</kbd> Stick To Cursor (Beta): When enabled, the display will stick to the cursor, relocating the measurement beams in realtime.  
 - <kbd>✨NEW✨</kbd> `Toggle:` Display the values inside `/` outside of current layer <sup>`📺 3`</sup>  
 - `Toggle:` Vertical Beam show `/` don’t show  
   - `Toggle:` Use Italic Angle `/` plain vertical  
