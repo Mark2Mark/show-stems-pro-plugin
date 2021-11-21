@@ -66,6 +66,10 @@ https://user-images.githubusercontent.com/5824595/135741284-ff902c77-8cee-4163-b
 
 <details><summary>Expand if you’re curious.</summary>
 
+### v3.1.8
+
+- Fix stems for components
+- Slightly smaller text badges (smaller padding). Better for many values at a time.
 ### v3.1.5
 
 - Fix crash on undo and fix undo itself
