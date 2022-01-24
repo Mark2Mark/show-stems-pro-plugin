@@ -15,6 +15,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ## Features & Highlights
 
 - You can now download it from the Plugin Manager right inside of GlyphsApp  
+- <kbd>✨NEW✨</kbd> You can move the beams now by simply dragging them around. No keyboard needed anymore.  
 - <kbd>✨NEW✨</kbd> Improved rendering  
   - Works well in Dark Mode <sup>`📺 1`</sup>  
 - Show Matches to values in Dimensions Palette <sup>`📺 2`</sup>  
@@ -66,10 +67,15 @@ https://user-images.githubusercontent.com/5824595/135741284-ff902c77-8cee-4163-b
 
 <details><summary>Expand if you’re curious.</summary>
 
+### v3.1.9
+
+- Highlight beams on mouse over and move them simply by dragging. No keyboard keys needed anymore (but those still work, if you prefer)
+
 ### v3.1.8
 
 - Fix stems for components
 - Slightly smaller text badges (smaller padding). Better for many values at a time.
+
 ### v3.1.5
 
 - Fix crash on undo and fix undo itself
