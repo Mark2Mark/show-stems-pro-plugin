@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>Show Stems Pro</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.markfromberg.Show-Stems-Pro</string>
+	<string>com.markfromberg.Show_Stems_Pro</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -17,13 +17,13 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.2.0</string>
+	<string>3.3</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20</string>
+	<string>21</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -41,16 +41,16 @@
 	<key>DTXcodeBuild</key>
 	<string>14A400</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.12</string>
+	<string>12.3</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2021 markfromberg.com | All rights reserved.</string>
+	<string>© 2023 markfromberg.com | All rights reserved.</string>
 	<key>NSPrincipalClass</key>
-	<string>Show_Stems_Pro</string>
+	<string>MFShowStemsPro</string>
 	<key>UpdateFeedURL</key>
-	<string></string>
+	<string>https://markfromberg.com</string>
 	<key>productPageURL</key>
-	<string></string>
+	<string>https://markfromberg.com</string>
 	<key>productReleaseNotes</key>
-	<string>Enjoy this update. See more at WEB_PROTOCOL/markfromberg.com</string>
+	<string>Enjoy this update. See more at https://markfromberg.com</string>
 </dict>
 </plist>
